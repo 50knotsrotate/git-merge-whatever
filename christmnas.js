@@ -1,4 +1,4 @@
-const const christmas =
+const christmas =
       { 
         day1: "", 
         day2: "",
