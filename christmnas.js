@@ -5,7 +5,7 @@ const christmas =
         day3: "5 Silver loops",
         day4: "",
         day5: "",
-        day6: "",
+        day6: "Marco",
         day7: "",
         day8: "",
         day9: "",
