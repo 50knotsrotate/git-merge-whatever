@@ -1,8 +1,8 @@
 const christmas =
       { 
-        day1: "", 
-        day2: "",
-        day3: "",
+        day1: "A parrot in an apple tree", 
+        day2: "Two tortoise eagles",
+        day3: "5 Silver loops",
         day4: "",
         day5: "",
         day6: "",
